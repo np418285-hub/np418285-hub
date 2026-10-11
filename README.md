@@ -12,11 +12,10 @@
 - Maven  
 - Eclipse, IntelliJ IDEA  
 
-### 🛠 Languages
--Python
+### 📝 Languages
+- Python
 - SQl
-- R Languages
-- 
+- R Languages 
 
 ### 🗄 Database  
 - MySQL  
