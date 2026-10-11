@@ -1,28 +1,22 @@
-# Hi there 👋 I'm Avinash Bachhav  
-🎓 Master's student in Computer Science  
-💡 Passionate about Java, backend development, and building real-world projects.
+# Hi there 👋 I'm Nilesh Pawar
+🎓 Bachelor of Computer Science  
+💡 Passionate about **Aspiring Data Analytics,SQL,Excel,Python and building real-world projects.**
 
 ---
 
 ## 🔧 Tech Stack
 
-### 🌐 Frontend  
-- HTML, CSS, JavaScript  
-- ReactJS  
-- Bootstrap  
-
-### 🔙 Backend  
-- Java (Core & Advanced)  
-- JDBC, Servlets  
-- Spring Boot  
-- REST APIs  
-- ORM / Hibernate  
-
 ### 🛠 Tools  
-- Git, GitHub  
+- Git, GitHub
+- Version Control
 - Maven  
 - Eclipse, IntelliJ IDEA  
-- Version Control  
+
+### 🛠 Languages
+-Python
+- SQl
+- R Languages
+- 
 
 ### 🗄 Database  
 - MySQL  
@@ -32,25 +26,23 @@
 ---
 
 ## 🧩 Interests
-- Problem Solving (Java)  
+- Problem Solving (SOL,Excel,python)  
 - Exploring new tools & frameworks  
 - Open Source Contributions  
 
 ---
 
 ## 📘 Currently Learning  
-- Java & AI  
-- Spring Boot Deep Dive  
-- Git & GitHub Advanced  
-- Building full-stack real-world applications  
-
+- Artificial Intelligence (AI)
+- Git & GitHub Advanced
+- linkedIn Networking & Personal Branding
+  
 ---
 
 ## 📫 Contact  
-📧 Email: **avinashbachhav67@gmail.com**  
-  🌐 Connect: [LinkedIn](https://www.linkedin.com/in/avinash-bachhav-7871042a0/)
-
-
+📧 Email: **np418285@gmail.com**  
+  🌐 Connect: [(https://www.linkedin.com/in/nilesh-pawar-43736635a)]
+  
 ---
 
 ## ⚡ Fun fact  
