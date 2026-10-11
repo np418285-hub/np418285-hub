@@ -40,7 +40,7 @@
 
 ## 📫 Contact  
 📧 Email: **np418285@gmail.com**  
-  🌐 Connect: [(https://www.linkedin.com/in/nilesh-pawar-43736635a)]
+  🌐 Connect: https://www.linkedin.com/in/nilesh-pawar-43736635a
   
 ---
 
